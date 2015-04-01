@@ -14,7 +14,6 @@ To use generator in your project:
  4. Compile project.
  5. Copy assemblies "syberside.Kooboo.CMS.Content.UserKeyGenerator.Unicode.dll" and "UnidecodeSharpFork.dll" to your KoobooCMS's "bin" folder.
  6. Restart you web site.
- 7. 
  
 
 
